@@ -386,4 +386,4 @@ npm run test:scenario19 # Invalid AI message format
 
 ---
 
-Built for CS35L at UCLA. CourseCompiler Team: Owen Battles, Ciaran Turner, Conor Parman, Atri Pandya
+Built for CS35L at UCLA.
